@@ -1,8 +1,8 @@
-<svg width="120" height="120" xmlns="http://www.w3.org/2000/svg">
+<svg width="120" height="120" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink>
  <g>
   <title>icon</title>
   <ellipse fill=" rgb(122,193,67)" stroke-width="null" cx="60" cy="60" id="svg_4" rx="60" ry="60" stroke="null"/>
   <ellipse fill="#ffffff" stroke-width="null" stroke-opacity="null" cx="60" cy="60" id="svg_5" rx="55" ry="55" stroke="null"/>
-  <image x="12" y="8" width="80%" height="80%" href="https://raw.githubusercontent.com/cityofsydneyspatial/opendata/master/sustainability.svg?sanitize=true" />
+  <image x="12" y="8" width="80%" height="80%" href="/sustainability.svg?sanitize=true" />
  </g>
 </svg>
