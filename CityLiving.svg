@@ -1,1 +1,63 @@
-<svg width="120" height="120" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="rgb(253,187,48)" d="M7 23h-5v-8.766l5.698-4.921 1.711 1.384 6.591-5.697 6 5.236v12.764h-5v-3h-2v3h-6v-3h-2v3zm13-2v-9.855l-4.006-3.496-6.542 5.655-1.712-1.385-3.74 3.231v5.85h1v-3h6v3h2v-3h6v3h1zm-7-6h2v2h-2v-2zm-8 0h2v2h-2v-2zm12 0h2v2h-2v-2zm-6 0v2h-2v-2h2zm2-3h2v2h-2v-2zm4 0h2v2h-2v-2zm-7.642-5.253l6.642-5.747 8 7-1.329 1.495-6.671-5.819-6.624 5.738-1.678-1.414-6.369 5.495-1.329-1.495 7.698-6.676 1.66 1.423z"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="120"
+   height="120"
+   viewBox="0 0 120 120"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Icon_CityLiving_120x120px.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="-58.341347"
+     inkscape:cy="-66.522006"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1806"
+     inkscape:window-height="1057"
+     inkscape:window-x="106"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-932.36218)">
+    <path
+       id="path4187-1"
+       d="m 39.166671,1038.1956 -20.83334,0 0,-36.5251 23.74167,-20.50422 7.12917,5.7667 27.4625,-23.7375 24.999999,21.8167 0,53.18342 -20.833339,0 0,-12.5 -8.33333,0 0,12.5 -25,0 0,-12.5 -8.33333,0 0,12.5 z m 54.166658,-8.3334 0,-41.06252 -16.691658,-14.5667 -27.25834,23.5625 -7.13333,-5.7708 -15.58333,13.46252 0,24.375 4.16666,0 0,-12.5 25,0 0,12.5 8.33334,0 0,-12.5 25,0 0,12.5 4.166658,0 z m -29.166658,-25 8.33333,0 0,8.3333 -8.33333,0 0,-8.3333 z m -33.33334,0 8.33334,0 0,8.3333 -8.33334,0 0,-8.3333 z m 50,0 8.33334,0 0,8.3333 -8.33334,0 0,-8.3333 z m -25,0 0,8.3333 -8.33333,0 0,-8.3333 8.33333,0 z m 8.33334,-12.50002 8.33333,0 0,8.33332 -8.33333,0 0,-8.33332 z m 16.66666,0 8.33334,0 0,8.33332 -8.33334,0 0,-8.33332 z m -31.84166,-21.8875 27.675,-23.9459 33.333329,29.1667 -5.5375,6.2292 -27.795829,-24.2459 -27.6,23.9084 -6.99167,-5.8917 -26.5375,22.8958 -5.5375,-6.2291 32.075,-27.8167 6.91667,5.9292 z"
+       inkscape:connector-curvature="0"
+       style="fill:#fdbb30" />
+  </g>
+</svg>
