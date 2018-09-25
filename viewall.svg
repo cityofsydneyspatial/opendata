@@ -1,7 +1,7 @@
 <svg width="120" height="120" xmlns="http://www.w3.org/2000/svg">
  <g>
   <title>view all</title>
-  <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Roboto,'Avenir Next W01','Avenir Next',Avenir,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="24" id="text" y="48.5" x="17.82031" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="null" fill="#1b2d38">view all</text>
+  <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Roboto,'Avenir Next W01','Avenir Next',Avenir,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="24" id="text" y="48.5" x="17.82031" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="null" fill="#62B5E5">view all</text>
   <path id="arrow" d="m60.00001,61c-10.49338,0 -18.99999,8.50662 -18.99999,19c0,10.49335 8.50662,19 18.99999,19c10.49337,0 18.99998,-8.50665 18.99998,-19c0,-10.49339 -8.5066,-19 -18.99998,-19zm-3.05246,31.71355l-4.62284,-4.62686l8.08821,-8.0877l-8.08821,-8.0877l4.62284,-4.62286l12.71202,12.71056l-12.71202,12.71456z" stroke-width="0" stroke="null" fill="#1b2d38"/>
  </g>
 </svg>
