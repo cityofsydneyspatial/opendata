@@ -1,0 +1,60 @@
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="120"
+   height="120"
+   viewBox="0 0 120 120"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Icon_CityLiving_120x120px.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="-329.76991"
+     inkscape:cy="-66.522006"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1806"
+     inkscape:window-height="1057"
+     inkscape:window-x="106"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-932.36218)">
+    <path
+       id="path4187-1"
+       d="m 39.166671,1052.3622 -20.83334,0 0,-36.5251 23.74167,-20.50426 7.12917,5.76676 27.4625,-23.73756 24.999999,21.8167 0,53.18346 -20.833339,0 0,-12.5 -8.33333,0 0,12.5 -25,0 0,-12.5 -8.33333,0 0,12.5 z m 54.166658,-8.3334 0,-41.0625 -16.691658,-14.56676 -27.25834,23.56256 -7.13333,-5.7708 -15.58333,13.4625 0,24.375 4.16666,0 0,-12.5 25,0 0,12.5 8.33334,0 0,-12.5 25,0 0,12.5 4.166658,0 z m -29.166658,-25 8.33333,0 0,8.3333 -8.33333,0 0,-8.3333 z m -33.33334,0 8.33334,0 0,8.3333 -8.33334,0 0,-8.3333 z m 50,0 8.33334,0 0,8.3333 -8.33334,0 0,-8.3333 z m -25,0 0,8.3333 -8.33333,0 0,-8.3333 8.33333,0 z m 8.33334,-12.5 8.33333,0 0,8.3333 -8.33333,0 0,-8.3333 z m 16.66666,0 8.33334,0 0,8.3333 -8.33334,0 0,-8.3333 z m -31.84166,-21.88756 27.675,-23.9459 33.333329,29.1667 -5.5375,6.2292 -27.795829,-24.2459 -27.6,23.9084 -6.99167,-5.8917 -26.5375,22.89586 -5.5375,-6.2291 32.075,-27.81676 6.91667,5.9292 z"
+       inkscape:connector-curvature="0"
+       style="fill:#fdbb30" />
+  </g>
+</svg>
